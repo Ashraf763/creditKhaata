@@ -47,7 +47,7 @@ INSTALLATION
 
 Clone the repository:
 
-bash  git clone https://github.com/Ashraf763/crediKhaata.git
+bash  git clone https://github.com/Ashraf763/creditKhaata.git
 cd credikhaata
 Install dependencies:
 
