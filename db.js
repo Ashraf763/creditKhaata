@@ -1,5 +1,5 @@
 // const { MongoClient } = require("mongodb");
-// const uri = "mongodb+srv://ashraf:ashu%40123@cluster0.i8o94.mongodb.net/";
+// const uri = "your_mongodb_connection_string";
 
 // const client = new MongoClient(uri);
 // const dbName = "sample_mflix";
